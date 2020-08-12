@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+### Last Results (12.08.2020)
+# Data: **266 proteins, 12 Controls, 37 Cases**
+# Model
+- Internal (for each pair of proteins): SVM (crossvalidation) - weights of connection = probability to beloning class 1
+- External (for network characterisitcs): glm (LOOCV)
+# Main results
+![Image](FINAL_FIG_FULL.jpg)
 
 ![Image](BAR.jpg)
 
