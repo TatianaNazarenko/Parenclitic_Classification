@@ -13,7 +13,7 @@ Right side plots: Each model is built on only one characteristic
 ## Results of Parenclitic only on 13 proteins
 ![Image](FINAL_FIG_SMALL.jpg)
 ### Networks
-![Image](NETWORKS.jpg)
+![Image](NETWORKS.PNG)
 
 
 You can use the [editor on GitHub](https://github.com/TatianaNazarenko/Parenclitic_Classification/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
