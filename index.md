@@ -45,6 +45,9 @@ In these pictures, the edges have a thickness of their weight (that is, the prob
 - _blue_ lines - weight of edge (0.25,5]
 - _gray_ lines - weight of edge [0,0.25]
 ![Image](NETWORKS.PNG)
+
+[Example of pair of protein](https://github.com/TatianaNazarenko/Parenclitic_Classification/ex1.html)
+
 ## Results of Parenclitic (WITHOUT AGE) only on 13 proteins (the same)
 Also perfect (despite the fact that the proteins were chosen according to the model with age)
 ![Image](FINAL_FIG_SMALL_WA.jpg)
