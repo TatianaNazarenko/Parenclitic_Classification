@@ -8,6 +8,7 @@ svmFit <- train(Group ~ p1 + p2 (or + AGE),
                   data = data, method = "svmRadial", preProc = c("center", "scale"),metric = "ROC",
                   trControl = trainControl(method = "cv", classProbs = TRUE, summaryFunction = twoClassSummary))
 ```
+[Example of pair of protein with Age](https://tatiananazarenko.github.io/Parenclitic_Classification/ex1.html)
                                            
 - External (for network characterisitcs): glm (LOOCV)
 ```markdown
@@ -46,7 +47,7 @@ In these pictures, the edges have a thickness of their weight (that is, the prob
 - _gray_ lines - weight of edge [0,0.25]
 ![Image](NETWORKS.PNG)
 
-[Example of pair of protein](https://tatiananazarenko.github.io/Parenclitic_Classification/ex1.html)
+
 
 ## Results of Parenclitic (WITHOUT AGE) only on 13 proteins (the same)
 Also perfect (despite the fact that the proteins were chosen according to the model with age)
