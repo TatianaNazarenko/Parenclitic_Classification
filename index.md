@@ -8,7 +8,7 @@ svmFit <- train(Group ~ p1 + p2 (or + AGE),
                   data = data, method = "svmRadial", preProc = c("center", "scale"),metric = "ROC",
                   trControl = trainControl(method = "cv", classProbs = TRUE, summaryFunction = twoClassSummary))
 ```
-[Example of pair of protein with Age](https://tatiananazarenko.github.io/Parenclitic_Classification/ex1.html)
+[Example of protein pair with Age](https://tatiananazarenko.github.io/Parenclitic_Classification/ex1.html)
                                            
 - External (for network characterisitcs): glm (LOOCV)
 ```markdown
