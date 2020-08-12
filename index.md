@@ -4,7 +4,11 @@
 - Internal (for each pair of proteins): SVM (crossvalidation) - weights of connection = probability to beloning class 1
 - External (for network characterisitcs): glm (LOOCV)
 # Main results
+Right side plots: Each model is built on only one characteristic
 ![Image](FINAL_FIG_FULL.jpg)
+## Can we reduce number of proteins?
+![Image](SELECTED_EDGES.jpg)
+
 
 ![Image](BAR.jpg)
 
