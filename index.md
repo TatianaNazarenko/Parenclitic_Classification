@@ -1,10 +1,10 @@
 ### Last Results (12.08.2020)
 # Data: 
 **266 proteins, 12 Controls, 37 Cases**
-# Models:
-- Internal (for each pair of proteins): radial SVM (crossvalidation) - weights of connection = probability to beloning class 1
+# Model:
+- Internal (for each pair of proteins p1 and p2): radial SVM (crossvalidation) - weights of connection = probability to beloning class 1
 ```markdown
-svmFit <- train(Group ~ p1 + p2 + AGE,
+svmFit <- train(Group ~ p1 + p2 (or + AGE),
                   data = data, method = "svmRadial", preProc = c("center", "scale"),metric = "ROC",
                   trControl = trainControl(method = "cv", classProbs = TRUE, summaryFunction = twoClassSummary))
 ```
@@ -15,13 +15,19 @@ glmFit <- train(Group ~ (1 network characterisitc),
                   data = df_train, method = "glm", preProc = c("center", "scale"), metric = "ROC",
                   trControl = trainControl(method = "LOOCV", classProbs = TRUE, summaryFunction = twoClassSummary))
 ```
-# Main results
-**35245 edges** ~_15 hours_
+# Results (Parenclitic WITH Age) 
+_**35 245 edges** ~15 hours_
 
 ![Image](FINAL_FIG_FULL.jpg)
 ## Can we reduce number of proteins?
+For each edge calculate avarage "weight" for 0-group and avarage "weight" for 1-group
 ![Image](SELECT_EDGES.jpg)
+Looks like "red cloud" <- pairs of proteins where SVM didn't find solution (I think these guys were the ones who spoiled the previous models).
+
+Calculation of how often each protein is found in the blue cloud (we think that if a protein is significant, then it will be found there more often, that is, the better other pairs with it will distinguish between groups).
 ![Image](HIST_FREQ.jpg)
+
+I selected only those proteins if the number of their connections that got into the blue cloud is more than half of all proteins.
 ![Image](BAR.jpg)
 ## Results of Parenclitic only on 13 proteins
 ![Image](FINAL_FIG_SMALL.jpg)
