@@ -2,21 +2,16 @@
 # Data: 
 **266 proteins, 12 Controls, 37 Cases**
 # Model
-- Internal (for each pair of proteins): SVM (crossvalidation) - weights of connection = probability to beloning class 1
-```model with AGE
-'  svmFit <- train(Group ~ p1 + p2 + AGE,
-                  data = data,
-                  method = "svmRadial",
-                  preProc = c("center", "scale"),
-                  #tuneGrid = svmGrid,
-                  metric = "ROC",
-                  #verbose = FALSE,
-                  trControl = trainControl(method = "cv", 
-                                           #number=3,
-                                           classProbs = TRUE, 
-                                           summaryFunction = twoClassSummary))'
+- Internal (for each pair of proteins): radial SVM (crossvalidation) - weights of connection = probability to beloning class 1
+'  svmFit <- train(Group ~ p1 + p2 + **AGE**,
+                  data = data, method = _"svmRadial"_, preProc = c("center", "scale"),metric = "ROC",
+                  trControl = trainControl(method = **"cv"**, classProbs = TRUE, summaryFunction = twoClassSummary))'
                                            
 - External (for network characterisitcs): glm (LOOCV)
+' glmFit <- train(Group ~ _1 network characterisitc_,
+                  data = df_train, method = _"glm"_, preProc = c("center", "scale"), metric = "ROC",
+                  trControl = trainControl(method = **"LOOCV"**, classProbs = TRUE, summaryFunction = twoClassSummary))
+'
 # Main results
 Right side plots: Each model is built on only one characteristic
 ![Image](FINAL_FIG_FULL.jpg)
