@@ -7,7 +7,7 @@
 Right side plots: Each model is built on only one characteristic
 ![Image](FINAL_FIG_FULL.jpg)
 ## Can we reduce number of proteins?
-![Image](SELECTED_EDGES.jpg)
+![Image](SELECT_EDGES.jpg)
 
 
 ![Image](BAR.jpg)
