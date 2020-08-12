@@ -3,6 +3,19 @@
 **266 proteins, 12 Controls, 37 Cases**
 # Model
 - Internal (for each pair of proteins): SVM (crossvalidation) - weights of connection = probability to beloning class 1
+```model with AGE
+'  svmFit <- train(Group ~ p1 + p2 + AGE,
+                  data = data,
+                  method = "svmRadial",
+                  preProc = c("center", "scale"),
+                  #tuneGrid = svmGrid,
+                  metric = "ROC",
+                  #verbose = FALSE,
+                  trControl = trainControl(method = "cv", 
+                                           #number=3,
+                                           classProbs = TRUE, 
+                                           summaryFunction = twoClassSummary))'
+                                           
 - External (for network characterisitcs): glm (LOOCV)
 # Main results
 Right side plots: Each model is built on only one characteristic
@@ -15,6 +28,8 @@ Right side plots: Each model is built on only one characteristic
 ![Image](FINAL_FIG_SMALL.jpg)
 ### Networks
 ![Image](NETWORKS.PNG)
+## Results of Parenclitic (WITHOUT AGE) only on 13 proteins (the same)
+![Image](FINAL_FIG_SMALL_WA.PNG)
 
 
 You can use the [editor on GitHub](https://github.com/TatianaNazarenko/Parenclitic_Classification/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
