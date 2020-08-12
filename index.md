@@ -32,10 +32,21 @@ I selected only those proteins if the number of their connections that got into 
 
 ![Image](BAR.jpg)
 ## Results of Parenclitic only on 13 proteins
+
+Also perfect!
 ![Image](FINAL_FIG_SMALL.jpg)
 ### Networks
+
+Since in this _"weighted"_-model there is always an edge and edge has a positive weight, it is difficult to distinguish between the networks.
+In these pictures, the edges have a thickness of their weight (that is, the probability of being a class) and I added colors to make the networks visually distinguishable:
+
+- _red_ lines - weight of edge (0.75,1]
+- _orange_ lines - weight of edge (0.5,75]
+- _blue_ lines - weight of edge (0.25,5]
+- _gray_ lines - weight of edge [0,0.25]
 ![Image](NETWORKS.PNG)
 ## Results of Parenclitic (WITHOUT AGE) only on 13 proteins (the same)
+Also perfect (despite the fact that the proteins were chosen according to the model with age)
 ![Image](FINAL_FIG_SMALL_WA.PNG)
 
 
