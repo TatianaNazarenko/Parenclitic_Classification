@@ -9,6 +9,7 @@ Right side plots: Each model is built on only one characteristic
 ![Image](FINAL_FIG_FULL.jpg)
 ## Can we reduce number of proteins?
 ![Image](SELECT_EDGES.jpg)
+![Image](HIST_FREQ.jpg)
 ![Image](BAR.jpg)
 ## Results of Parenclitic only on 13 proteins
 ![Image](FINAL_FIG_SMALL.jpg)
