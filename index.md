@@ -1,22 +1,23 @@
 ### Last Results (12.08.2020)
 # Data: 
 **266 proteins, 12 Controls, 37 Cases**
-# Model
+# Models:
 - Internal (for each pair of proteins): radial SVM (crossvalidation) - weights of connection = probability to beloning class 1
 ```markdown
-svmFit <- train(Group ~ p1 + p2 + **AGE**,
-                  data = data, method = _"svmRadial"_, preProc = c("center", "scale"),metric = "ROC",
-                  trControl = trainControl(method = **"cv"**, classProbs = TRUE, summaryFunction = twoClassSummary))
+svmFit <- train(Group ~ p1 + p2 + AGE,
+                  data = data, method = "svmRadial", preProc = c("center", "scale"),metric = "ROC",
+                  trControl = trainControl(method = "cv", classProbs = TRUE, summaryFunction = twoClassSummary))
 ```
                                            
 - External (for network characterisitcs): glm (LOOCV)
 ```markdown
-glmFit <- train(Group ~ _1 network characterisitc_,
-                  data = df_train, method = _"glm"_, preProc = c("center", "scale"), metric = "ROC",
-                  trControl = trainControl(method = **"LOOCV"**, classProbs = TRUE, summaryFunction = twoClassSummary))
+glmFit <- train(Group ~ (1 network characterisitc),
+                  data = df_train, method = "glm", preProc = c("center", "scale"), metric = "ROC",
+                  trControl = trainControl(method = "LOOCV", classProbs = TRUE, summaryFunction = twoClassSummary))
 ```
 # Main results
-Right side plots: Each model is built on only one characteristic
+**35245 edges** ~_15 hours_
+
 ![Image](FINAL_FIG_FULL.jpg)
 ## Can we reduce number of proteins?
 ![Image](SELECT_EDGES.jpg)
