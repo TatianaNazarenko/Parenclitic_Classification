@@ -182,6 +182,7 @@
 | C19-CB-0225 | Excluded | Incomplete data                     |
 </pre>
 </details>
+
 ## Example:
 ![Image](/docs/DIED5_EXAMPLE.jpg)
 
