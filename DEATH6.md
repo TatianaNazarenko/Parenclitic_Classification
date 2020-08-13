@@ -2,6 +2,10 @@
  
 ## Data: 
  **200 features (I.Age, charlson, 13 N.(), 185 proteins), 45 Controls, 14 Cases**
+ 
+## Example:
+![Image](/docs/DIED6_EXAMPLE.jpg)
+
 ## Model:
  - Internal (for each pair of features f1 and f2): radial SVM (crossvalidation) - weights of connection = probability to beloning class 1
  ```markdown
@@ -28,8 +32,7 @@
  svmFit <- train(Group ~ f1 + f2,
                    data = data, method = "svmRadial", preProc = c("center", "scale"),metric = "ROC",
                    trControl = trainControl(method = "cv", classProbs = TRUE, summaryFunction = twoClassSummary))
- ```
- 
+ ``` 
 ![Image](/docs/DIED6_4.jpg)
 ## Networks
 ![Image](/docs/DIED6_5.jpg)
