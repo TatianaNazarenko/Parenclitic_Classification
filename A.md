@@ -214,4 +214,11 @@
  
 ![Image](/docs/A_4.jpg)
 ## Networks
+<span style="color:red">some **This is Red Bold.** text</span>
+
+- _red_ lines - weight of edge (0.75,1]
+- _orange_ lines - weight of edge (0.5,75]
+- _blue_ lines - weight of edge (0.25,5]
+- _gray_ lines - weight of edge [0,0.25]
+
 ![Image](/docs/A_5.jpg)
