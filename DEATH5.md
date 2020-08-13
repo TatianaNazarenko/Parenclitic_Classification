@@ -2,6 +2,7 @@
  
 ## Data: 
  **201 features (I.Age, charlson, 13 N.(), 186 proteins), 57 Controls, 15 Cases**
+ 
 [Additional information about dataset](/docs/characteristics_Died_5.pdf)
 ## Example:
 ![Image](/docs/DIED5_EXAMPLE.jpg)
