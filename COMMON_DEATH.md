@@ -4,7 +4,7 @@ We assume that the important features for death classification will be common in
 ![Image](/docs/FREQ_ALL_DEATHS.png)
 [Please rotate by mouse grabbing figure here](https://tatiananazarenko.github.io/Parenclitic_Classification/docs/FREQ_ALL_DEATHS.html)
 
-(The 15 best of them were selected approximately)
+(15 the best of them were selected approximately)
 ## Results on selected top 15 features for 
 ### DEATH 5
 ![Image](/docs/AGG_5.jpg)
