@@ -7,7 +7,7 @@
  
  <details>
 <summary>Group Exclusions</summary>
-<br>From the point a patient has a WHO>=6, they die (1) or survive (0)	</br>	
+<br>From the point a patient has a WHO>=6, they die (1) or survive (0)	
 <br>
 <pre>
 | #0          | 45       |                                     |
