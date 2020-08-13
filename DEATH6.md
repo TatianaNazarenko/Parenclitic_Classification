@@ -23,7 +23,7 @@
 ![Image](/docs/DIED6_2.jpg)
 
 ![Image](/docs/DIED6_3.jpg)
-## Results on 15 selected proteins
+## Results on 15 selected features
  ```markdown
  svmFit <- train(Group ~ f1 + f2 + AGE,
                    data = data, method = "svmRadial", preProc = c("center", "scale"),metric = "ROC",
