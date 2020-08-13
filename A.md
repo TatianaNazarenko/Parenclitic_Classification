@@ -214,17 +214,10 @@
  
 ![Image](/docs/A_4.jpg)
 ## Networks
-
+The thickness of the edge line is equal to the edge + colors
 - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) weight of edge (0.75,1]
 - ![#f09c15](https://via.placeholder.com/15/f09c15/000000?text=+) weight of edge (0.5,75]
 - ![#1524f0](https://via.placeholder.com/15/1524f0/000000?text=+) weight of edge (0.25,5]
 - ![#94928e](https://via.placeholder.com/15/94928e/000000?text=+) weight of edge [0,0.25]
-
-<span style="color:red">some **This is Red Bold.** text</span>
-
-- _red_ lines - weight of edge (0.75,1]
-- _orange_ lines - weight of edge (0.5,75]
-- _blue_ lines - weight of edge (0.25,5]
-- _gray_ lines - weight of edge [0,0.25]
 
 ![Image](/docs/A_5.jpg)
