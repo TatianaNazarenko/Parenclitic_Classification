@@ -25,6 +25,12 @@
 
 ![Image](/docs/WA_3.jpg)
 ## Results on 15 selected proteins
+ ```markdown
+ svmFit <- train(Group ~ p1 + p2 + AGE,
+                   data = data, method = "svmRadial", preProc = c("center", "scale"),metric = "ROC",
+                   trControl = trainControl(method = "cv", classProbs = TRUE, summaryFunction = twoClassSummary))
+ ```
+ 
 ![Image](/docs/WA_4.jpg)
 ## Networks
 ![Image](/docs/WA_5.jpg)
