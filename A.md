@@ -3,6 +3,10 @@
  
 ## Data: 
  **266 proteins, 12 Controls, 37 Cases**
+
+## Example:
+![Image](/docs/A_EXAMPLE.jpg)
+
 ## Model:
  - Internal (for each pair of proteins p1 and p2): radial SVM (crossvalidation) - weights of connection = probability to beloning class 1
  ```markdown
