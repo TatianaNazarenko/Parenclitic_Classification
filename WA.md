@@ -19,7 +19,7 @@
  ```
  
 ## Results on full set of proteins
-![Image](WA_1.jpg)
+![Image](/docs/WA_1.jpg)
 ## reduce number of proteins
 ![Image](WA_2.jpg)
 
