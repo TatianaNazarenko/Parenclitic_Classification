@@ -1,8 +1,11 @@
 # WORSE/BETTER (with AGE)
- [Example of protein pair with Age](https://tatiananazarenko.github.io/Parenclitic_Classification/ex1.html)
-
+ 
 ## Data: 
  **266 proteins, 12 Controls, 37 Cases**
+
+## Example:
+[Example of protein pair with Age](https://tatiananazarenko.github.io/Parenclitic_Classification/ex1.html)
+
 ## Model:
  - Internal (for each pair of proteins p1 and p2): radial SVM (crossvalidation) - weights of connection = probability to beloning class 1
  ```markdown
