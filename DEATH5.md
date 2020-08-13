@@ -214,7 +214,6 @@
  ``` 
 ![Image](/docs/DIED5_4.jpg)
 ## Networks
-## Networks
 The thickness of the edge line is equal to the edge weight + colors
 - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) weight of edge (0.75,1]
 - ![#f09c15](https://via.placeholder.com/15/f09c15/000000?text=+) weight of edge (0.5,75]
