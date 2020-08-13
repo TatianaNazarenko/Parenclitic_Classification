@@ -25,7 +25,7 @@
 ![Image](/docs/DIED6_3.jpg)
 ## Results on 15 selected features
  ```markdown
- svmFit <- train(Group ~ f1 + f2 + AGE,
+ svmFit <- train(Group ~ f1 + f2,
                    data = data, method = "svmRadial", preProc = c("center", "scale"),metric = "ROC",
                    trControl = trainControl(method = "cv", classProbs = TRUE, summaryFunction = twoClassSummary))
  ```
