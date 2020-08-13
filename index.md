@@ -7,5 +7,3 @@
 - [DEATH 6](DEATH6.md)
 - [DEATH 7](DEATH7.md)
 
-
-
