@@ -1,3 +1,18 @@
+### Problems
+
+# PROBLEM
+## WORSE/BETTER
+### WITH AGE
+### WITHOUT AGE
+## DEATH
+### 5
+### 6
+### 7
+
+[a1](https://tatiananazarenko.github.io/Parenclitic_Classification/old.md)
+[a1](old.md)
+
+
 ### Last Results (12.08.2020)
 # Data: 
 **266 proteins, 12 Controls, 37 Cases**
