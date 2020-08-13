@@ -15,6 +15,7 @@
 | #Excluded   | 104      |                                     |
 |-------------|----------|-------------------------------------|
 | Aux.Id      | Group    | Reason for exclusion                |
+|-------------|----------|-------------------------------------|
 | C19-CB-0000 | Excluded | Incomplete data                     |
 | C19-CB-0001 | Excluded | All points <6                       |
 | C19-CB-0003 | Excluded | All points <6                       |
