@@ -6,7 +6,7 @@
 
 <details>
 <summary>Group Exclusions</summary>
-<br>Patients who become >5 and then go on to get worse (1) or better (0). Sample is first at which they are >5</br>	
+<br>Patients who become >5 and then go on to get worse (1) or better (0). Sample is first at which they are >5
 <br>
 <pre>
 | #0          | 12       |                                   |
