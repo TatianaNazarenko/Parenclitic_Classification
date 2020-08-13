@@ -21,10 +21,10 @@
 ## Results on full set of proteins
 ![Image](/docs/WA_1.jpg)
 ## reduce number of proteins
-![Image](WA_2.jpg)
+![Image](/docs/WA_2.jpg)
 
-![Image](WA_3.jpg)
+![Image](/docs/WA_3.jpg)
 ## Results on 15 selected proteins
-![Image](WA_4.jpg)
+![Image](/docs/WA_4.jpg)
 ## Networks
-![Image](WA_5.jpg)
+![Image](/docs/WA_5.jpg)
