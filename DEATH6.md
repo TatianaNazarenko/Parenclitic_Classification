@@ -17,7 +17,7 @@
                    trControl = trainControl(method = "LOOCV", classProbs = TRUE, summaryFunction = twoClassSummary))
  ```
  
-## Results on full set of proteins
+## Results on full set of features
 ![Image](/docs/DIED6_1.jpg)
 ## reduce number of proteins
 ![Image](/docs/DIED6_2.jpg)
