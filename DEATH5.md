@@ -7,7 +7,6 @@
 
 <details>
 <summary>Group Exclusions</summary>
-<br>DEATH 5<br>
 <br>From the point a patient has a WHO>=5, they die (1) or survive (0)	</br>	
 <br>
 <pre>
