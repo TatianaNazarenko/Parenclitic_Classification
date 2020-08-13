@@ -9,8 +9,8 @@
 ### 6
 ### 7
 
-[a1](https://tatiananazarenko.github.io/Parenclitic_Classification/results12082020.md)
-[a1](old.results12082020.md)
+
+[a1](results12082020.md)
 
 
 ### Last Results (12.08.2020)
