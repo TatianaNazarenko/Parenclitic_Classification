@@ -35,7 +35,7 @@ _the same as the previous one_
 
 # Parenclitic Models
 
-(_for this versions we use only **clinical &  proteomic** type_ )
+(_for these versions we use only **clinical &  proteomic** type_ )
 - [WORSE/BETTER](A.md)
 - [WORSE/BETTER (with AGE)](WA.md)
 - [DEATH 5](DEATH5.md)
