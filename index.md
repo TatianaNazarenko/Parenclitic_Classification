@@ -9,7 +9,7 @@
 - **WORSE/BETTER (with AGE)** 
 
 _the same as the previous one_ 
-- <details><summary>**DEATH 5**</summary>
+- <details><summary>DEATH 5</summary>
 <br>
 | Type      | AUC (95% CI)        | Final model |
 |-----------|---------------------|-------------|
