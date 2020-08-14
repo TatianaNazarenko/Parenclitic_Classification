@@ -34,6 +34,8 @@ _the same as the previous one_
 | clinical &  proteomic| 0.897 (0.806-0.987) | N.PCO2, N.PH, N.LAC, MASP2 |
 
 # Parenclitic Models
+
+(_for this versions we use only **clinical &  proteomic** type_ )
 - [WORSE/BETTER](A.md)
 - [WORSE/BETTER (with AGE)](WA.md)
 - [DEATH 5](DEATH5.md)
