@@ -10,6 +10,15 @@ _the same as the previous one_
 - **DEATH 5**
 
 AUC (95% CI): 0.917 (0.851-0.983), Final model: N.PH, N.LAC, SERPINA3, MASP2
+|-----------|---------------------|-------------|
+| Type      | AUC (95% CI)        | Final model |
+|-----------|---------------------|-------------|
+| clinical  | 0.854 (0.763-0.944) | N.PH, N.LAC |
+
+|-------------|----------|-------------------------------------|
+| AUC (95% CI)| AUC (95% CI)   | Reason for exclusion                |
+|-------------|----------|-------------------------------------|
+| C19-CB-0000 | Excluded | Incomplete data                     |
 - **DEATH 6**
 
 AUC (95% CI): 0.917 (0.849-0.986), Final model: N.PH, N.LAC, SERPINA3, MASP2
