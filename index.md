@@ -9,24 +9,27 @@ AUC (95% CI): 0.729 (0.540-0.917), Final model: PGLYRP2, KLKB1
 _the same as the previous one_ 
 - **DEATH 5**
 
-AUC (95% CI): 0.917 (0.851-0.983), Final model: N.PH, N.LAC, SERPINA3, MASP2
-
 | Type      | AUC (95% CI)        | Final model |
 |-----------|---------------------|-------------|
 | clinical  | 0.854 (0.763-0.944) | N.PH, N.LAC |
 | proteomic | 0.864 (0.776-0.953) | HRG, SERPINA3, FETUB, MASP2 |
 | clinical &  proteomic| 0.917 (0.851-0.983) | N.PH, N.LAC, SERPINA3, MASP2 |
 
-|-------------|----------|-------------------------------------|
-| AUC (95% CI)| AUC (95% CI)   | Reason for exclusion                |
-|-------------|----------|-------------------------------------|
-| C19-CB-0000 | Excluded | Incomplete data                     |
 - **DEATH 6**
 
-AUC (95% CI): 0.917 (0.849-0.986), Final model: N.PH, N.LAC, SERPINA3, MASP2
+| Type      | AUC (95% CI)        | Final model |
+|-----------|---------------------|-------------|
+| clinical  | 0.870 (0.779-0.961) | N.PH, N.LAC |
+| proteomic | 0.878 (0.779-0.976) | KNG1, CFI, HRG, SERPINA3, FETUB, MASP2 |
+| clinical &  proteomic| 0.917 (0.849-0.986) | N.PH, N.LAC, SERPINA3, MASP2 |
+
 - **DEATH 7**
 
-AUC (95% CI): 0.897 (0.806-0.987), Final model: N.PCO2, N.PH, N.LAC, MASP2
+| Type      | AUC (95% CI)        | Final model |
+|-----------|---------------------|-------------|
+| clinical  | 0.844 (0.732-0.956) | N.PCO2, N.PH, N.LAC |
+| proteomic | 0.900 (0.816-0.985) | A2M, KNG1, CFI, HRG, PZP, SERPINA3, MASP2 |
+| clinical &  proteomic| 0.897 (0.806-0.987) | N.PCO2, N.PH, N.LAC, MASP2 |
 
 # Parenclitic Models
 - [WORSE/BETTER](A.md)
