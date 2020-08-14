@@ -13,11 +13,13 @@ _the same as the previous one_
 <details>
   <summary>DEATH 5</summary>
   <br>
+  <pre>
     | Type      | AUC (95% CI)        | Final model |
     |-----------|---------------------|-------------|
     | clinical  | 0.854 (0.763-0.944) | N.PH, N.LAC |
     | proteomic | 0.864 (0.776-0.953) | HRG, SERPINA3, FETUB, MASP2 |
     | clinical &  proteomic| 0.917 (0.851-0.983) | N.PH, N.LAC, SERPINA3, MASP2 |
+  </pre>
 </details>
 
 - **DEATH 6**
