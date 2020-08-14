@@ -3,7 +3,9 @@
 
 - **WORSE/BETTER**
 
-AUC (95% CI): 0.729 (0.540-0.917), Final model: PGLYRP2, KLKB1
+| Type      | AUC (95% CI)        | Final model |
+|-----------|---------------------|-------------|
+| proteomic | 0.729 (0.540-0.917) | PGLYRP2, KLKB1 |
 - **WORSE/BETTER (with AGE)** 
 
 _the same as the previous one_ 
