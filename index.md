@@ -1,16 +1,29 @@
 ### Last Results (14.08.2020)
 # Lasso regression with LOOCV
 
-- **WORSE/BETTER**
+<details>
+  <summary>WORSE/BETTER</summary>
+  <br>
+  <pre>
+    | Type                 | AUC (95% CI)        | Final model                                |
+    |----------------------|---------------------|--------------------------------------------|       
+    | proteomic            | 0.729 (0.540-0.917) | PGLYRP2, KLKB1.                            |
 
-| Type      | AUC (95% CI)        | Final model |
-|-----------|---------------------|-------------|
-| proteomic | 0.729 (0.540-0.917) | PGLYRP2, KLKB1 |
-- **WORSE/BETTER (with AGE)** 
+  </pre>
+</details>
 
-_the same as the previous one_ 
+<details>
+  <summary>WORSE/BETTER</summary>
+  <br> (the same as the previous one)
+  <br>
+  <pre>
+    | Type                 | AUC (95% CI)        | Final model                                |
+    |----------------------|---------------------|--------------------------------------------|       
+    | proteomic            | 0.729 (0.540-0.917) | PGLYRP2, KLKB1.                            |
 
-- 
+  </pre>
+</details>
+ 
 <details>
   <summary>DEATH 5</summary>
   <br>
@@ -23,7 +36,6 @@ _the same as the previous one_
   </pre>
 </details>
 
-- 
 <details>
   <summary>DEATH 6</summary>
   <br>
@@ -36,7 +48,6 @@ _the same as the previous one_
   </pre>
 </details>
 
-- 
 <details>
   <summary>DEATH 7</summary>
   <br>
