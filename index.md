@@ -58,7 +58,7 @@
   </pre>
 </details>
 
-### Parenclitic Models (READY !!!)
+### Parenclitic Models (<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>)
 - [WORSE/BETTER](/24082020/MRM/WORSEBETTER.md)
 - [DEATH 5](/24082020/MRM/DEATH5.md)
 - [DEATH 6](/24082020/MRM/DEATH6.md)
