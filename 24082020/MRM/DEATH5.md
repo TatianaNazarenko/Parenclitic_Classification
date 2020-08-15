@@ -205,5 +205,9 @@
                    trControl = trainControl(method = "LOOCV", classProbs = TRUE, summaryFunction = twoClassSummary))
  ```
  
-## Results on full set of features
+### Model only on CLINICAL features
 ![Image](RESULTS_MRM_DIED_5_clinical_1.jpg)
+### Model only on PROTEINS features
+![Image](RESULTS_MRM_DIED_5_proteins_1.jpg)
+### Model on CLINICAL & PROTEINS features
+![Image](RESULTS_MRM_DIED_5_full_1.jpg)
