@@ -32,7 +32,6 @@
 
   </pre>
 </details>
-</details>
 
 <details>
   <summary>DEATH 6</summary>
@@ -99,7 +98,6 @@
     | clinical &  proteomic|                     |                                            |
 
   </pre>
-</details>
 </details>
 
 <details>
