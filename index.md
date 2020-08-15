@@ -59,8 +59,11 @@
 </details>
 
 ### Parenclitic Models 
-(<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>)
-**My Bold Text, in red color.**{: style="color: red; opacity: 0.80;" }
+```diff
++ Green.Like all Byzantine agreement protocols, SCP makes no assumptions about the rational behavior of attackers.
+- Red. Like all Byzantine agreement protocols, SCP makes no assumptions about the rational behavior of attackers.
+Black. Like all Byzantine agreement protocols, SCP makes no assumptions about the rational behavior of attackers.
+```
 - [WORSE/BETTER](/24082020/MRM/WORSEBETTER.md)
 - [DEATH 5](/24082020/MRM/DEATH5.md)
 - [DEATH 6](/24082020/MRM/DEATH6.md)
