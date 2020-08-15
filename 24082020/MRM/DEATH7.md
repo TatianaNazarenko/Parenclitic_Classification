@@ -2,7 +2,7 @@
 # DEATH 7
  
 ## Data: 
-- **69 Features**
+- **66 Features**
 <details>
 <summary>Clinical (12)</summary>
  <pre>
