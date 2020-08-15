@@ -122,7 +122,7 @@
 </details>
 
 ### Parenclitic Models (... coming soon ...)
-- [WORSE/BETTER](/24082020/original/A.md)
+- [WORSE/BETTER](/24082020/original/WORSEBETTER.md)
 - [DEATH 5](/24082020/original/DEATH5.md)
 - [DEATH 6](/24082020/original/DEATH6.md)
 - [DEATH 7](/24082020/original/DEATH7.md)
