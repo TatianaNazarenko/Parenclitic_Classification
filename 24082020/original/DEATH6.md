@@ -1,5 +1,5 @@
  
-# DEATH 6
+# DEATH 6 (original)
  
 ## Data: 
 - **197 Features**
