@@ -3,8 +3,10 @@
 
 # New Results for discussion 24.08.2020
 ## MRM SUBSET
-### Lasso regression with LOOCV (... coming soon ...)
-
+### Lasso regression with LOOCV 
+```diff
+- (... coming soon ...)
+```
 <details>
   <summary>WORSE/BETTER</summary>
   <br>
@@ -60,9 +62,7 @@
 
 ### Parenclitic Models 
 ```diff
-+ Like all Byzantine agreement protocols, SCP makes no assumptions about the rational behavior of attackers.
-- Red. Like all Byzantine agreement protocols, SCP makes no assumptions about the rational behavior of attackers.
-Black. Like all Byzantine agreement protocols, SCP makes no assumptions about the rational behavior of attackers.
++ READY !!!
 ```
 - [WORSE/BETTER](/24082020/MRM/WORSEBETTER.md)
 - [DEATH 5](/24082020/MRM/DEATH5.md)
@@ -71,8 +71,10 @@ Black. Like all Byzantine agreement protocols, SCP makes no assumptions about th
 
 
 ## ORIGINAL SET
-### Lasso regression with LOOCV (... coming soon ...)
-
+### Lasso regression with LOOCV
+```diff
+- (... coming soon ...)
+```
 <details>
   <summary>WORSE/BETTER</summary>
   <br>
@@ -127,6 +129,9 @@ Black. Like all Byzantine agreement protocols, SCP makes no assumptions about th
 </details>
 
 ### Parenclitic Models (... coming soon ...)
+```diff
+- (... coming soon ...)
+```
 - [WORSE/BETTER](/24082020/original/WORSEBETTER.md)
 - [DEATH 5](/24082020/original/DEATH5.md)
 - [DEATH 6](/24082020/original/DEATH6.md)
