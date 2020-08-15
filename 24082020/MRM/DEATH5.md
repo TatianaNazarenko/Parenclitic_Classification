@@ -204,9 +204,10 @@
                    data = data, method = "glm", preProc = c("center", "scale"), metric = "ROC",
                    trControl = trainControl(method = "LOOCV", classProbs = TRUE, summaryFunction = twoClassSummary))
  ```
- ### Combined results for 3 different model types (CLINICAL,  PROTEINS, CLINICAL & PROTEINS)
+## Combined results for 3 different model types (CLINICAL,  PROTEINS, CLINICAL & PROTEINS)
 ![Image](FINAL_MRM_DIED_5.jpg)
 
+## Detailed graphs for each type separately
 ### Model only on CLINICAL features
 ![Image](RESULTS_MRM_DIED_5_clinical_1.jpg)
 ### Model only on PROTEINS features
