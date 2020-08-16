@@ -211,6 +211,9 @@ SHBG, TF, TTR, VWF
 ## Combined results for 3 different model types (CLINICAL,  PROTEINS, CLINICAL & PROTEINS)
 ![Image](FINAL_MRM_DIED_6.jpg)
 
+## Top Features
+![Image](MRM_DIED_6_TOP.jpg)
+
 ## Detailed graphs for each type separately
 ### Model only on CLINICAL features
 ![Image](RESULTS_MRM_DIED_6_clinical_1.jpg)
