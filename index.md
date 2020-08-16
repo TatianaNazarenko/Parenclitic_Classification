@@ -128,7 +128,7 @@
 
 ### Parenclitic Models (... coming soon ...)
 ```diff
-- (... coming soon ...)
++ READY !!!
 ```
 - [WORSE/BETTER](/24082020/original/WORSEBETTER.md)
 - [DEATH 5](/24082020/original/DEATH5.md)
