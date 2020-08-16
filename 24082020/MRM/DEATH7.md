@@ -210,6 +210,9 @@ ORM2, PLG, PPBP, PROS1, RBP4, S100A8, S100A9, SERPINA1, SERPINC1, SERPINF2, SERP
 ## Combined results for 3 different model types (CLINICAL,  PROTEINS, CLINICAL & PROTEINS)
 ![Image](FINAL_MRM_DIED_7.jpg)
 
+## Top Features
+![Image](MRM_DIED_7_TOP.jpg)
+
 ## Detailed graphs for each type separately
 ### Model only on CLINICAL features
 ![Image](RESULTS_MRM_DIED_7_clinical_1.jpg)
