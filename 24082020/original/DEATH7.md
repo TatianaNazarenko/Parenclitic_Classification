@@ -220,6 +220,9 @@ IGKV4.1, C4A, IGHV3.72, HPR, IGHV4.34.IGHV4.38.2, LCAT, CFHR1, IGLV3.21, B2M, IG
 ## Combined results for 3 different model types (CLINICAL,  PROTEINS, CLINICAL & PROTEINS)
 ![Image](FINAL_DIED_7.jpg)
 
+## Top Features
+![Image](DIED_7_TOP.jpg)
+
 ## Detailed graphs for each type separately
 ### Model only on CLINICAL features
 ![Image](RESULTS_DIED_7_clinical_1.jpg)
