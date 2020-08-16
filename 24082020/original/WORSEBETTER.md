@@ -217,9 +217,13 @@ APOM, S100A9, IGKV1.17, IGLV1.51, IGLV1.40, IGKV4.1, C4A, IGHV3.72, HPR, IGHV4.3
                    trControl = trainControl(method = "LOOCV", classProbs = TRUE, summaryFunction = twoClassSummary))
  ```
 ## Combined results for 3 different model types (CLINICAL,  PROTEINS, CLINICAL & PROTEINS)
+![Image](FINAL_Blue1.jpg)
 
 ## Detailed graphs for each type separately
 ### Model only on CLINICAL features
+![Image](RESULTS_Blue1_clinical_1.jpg)
 ### Model only on PROTEINS features
+![Image](RESULTS_Blue1_proteins_1.jpg)
 ### Model on CLINICAL & PROTEINS features
+![Image](RESULTS_Blue1_full_1.jpg)
 
