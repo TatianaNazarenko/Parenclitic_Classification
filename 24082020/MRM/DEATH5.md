@@ -212,6 +212,9 @@
 ## Combined results for 3 different model types (CLINICAL,  PROTEINS, CLINICAL & PROTEINS)
 ![Image](FINAL_MRM_DIED_5.jpg)
 
+## Top Features
+![Image](MRM_DIED_5_TOP.jpg)
+
 ## Detailed graphs for each type separately
 ### Model only on CLINICAL features
 ![Image](RESULTS_MRM_DIED_5_clinical_1.jpg)
