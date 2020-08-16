@@ -210,6 +210,9 @@ PLG, PPBP, PROS1, RBP4, S100A8, S100A9, SERPINA1, SERPINC1, SERPINF2, SERPING1, 
 ## Combined results for 3 different model types (CLINICAL,  PROTEINS, CLINICAL & PROTEINS)
 ![Image](FINAL_MRM_Blue1.jpg)
 
+## Top Features
+![Image](MRM_Blue1_TOP.jpg)
+
 ## Detailed graphs for each type separately
 ### Model only on CLINICAL features
 ![Image](RESULTS_MRM_Blue1_clinical_1.jpg)
