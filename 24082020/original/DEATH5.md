@@ -219,9 +219,15 @@ B2M, IGHV1.69
                    trControl = trainControl(method = "LOOCV", classProbs = TRUE, summaryFunction = twoClassSummary))
  ```
 ## Combined results for 3 different model types (CLINICAL,  PROTEINS, CLINICAL & PROTEINS)
+![Image](FINAL_DIED_5.jpg)
 
 ## Detailed graphs for each type separately
 ### Model only on CLINICAL features
+![Image](RESULTS_DIED_5_clinical_1.jpg)
 ### Model only on PROTEINS features
+![Image](RESULTS_DIED_5_proteins_1.jpg)
 ### Model on CLINICAL & PROTEINS features
+![Image](RESULTS_DIED_5_full_1.jpg)
+
+
 
