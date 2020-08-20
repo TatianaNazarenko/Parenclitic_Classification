@@ -9,7 +9,6 @@ As a result, the entire network of each patient is _pure prediction_.
  - Internal (for each pair of features f1 and f2): radial SVM (LOOCV) - weights of connection = probability to beloning class 1
  
  ```markdown
- 
   fitControl <- trainControl(
     method = 'LOOCV',
     number=1,
@@ -19,7 +18,6 @@ As a result, the entire network of each patient is _pure prediction_.
     summaryFunction = twoClassSummary,
     allowParallel = TRUE
   )
-  
   svmFit <- train(Group ~ f1 + f2,
                   data = data,
                   method = "svmRadial",
