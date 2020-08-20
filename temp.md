@@ -5,7 +5,9 @@ During constructing an edge, each patient gets the _weight_ that is predicted fo
 As a result, the entire network of each patient is _pure prediction_.
 
 ## Model:
- - Internal (for each pair of features f1 and f2): radial SVM (LOOCV) - weights of connection = probability to beloning class 1 
+
+ - Internal (for each pair of features f1 and f2): radial SVM (LOOCV) - weights of connection = probability to beloning class 1
+ 
  ```markdown
  
   fitControl <- trainControl(
@@ -27,6 +29,7 @@ As a result, the entire network of each patient is _pure prediction_.
                   trControl = fitControl)
  ```
  - External (for network characterisitcs): glm (LOOCV)
+ 
  ```markdown
  glmFit <- train(Group ~ (1 network characterisitc),
                    data = data, method = "glm", preProc = c("center", "scale"), metric = "ROC",
