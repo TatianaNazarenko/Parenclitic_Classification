@@ -1,5 +1,5 @@
 
-# DEATH 7 (TRY WITH LOOCV-INTERNAL)
+# DEATH 7 (with LOOCV in INTERNAL model)
 
 ## Model:
  - Internal (for each pair of features f1 and f2): radial SVM (LOOCV) - weights of connection = probability to beloning class 1 
@@ -10,7 +10,7 @@
     number=1,
     savePredictions = 'final',
     classProbs = T,
-    seed = as.list(rep(1,(nrow(df_train)+1))),
+    seed = as.list(rep(1,(nrow(data)+1))),
     summaryFunction = twoClassSummary,
     allowParallel = TRUE
   )
