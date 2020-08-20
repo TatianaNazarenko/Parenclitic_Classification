@@ -34,8 +34,12 @@ As a result, the entire network of each patient is _pure prediction_.
  ```
  
 ## Results on full set of features
+Since now the characteristics of different network models are presented here (now each patient has own training-network-model), then every single characteristic of such different networks is now not so good (since all the resulting networks are now different).
+
 ![Image](/docs/temp_DIED7_1.jpg)
 
 ## Results on pair of characteristics
+But the prediction on a couple of them is excellent again (these characteristics compensated for the difference in training models)
+
 ![Image](/docs/temp.jpg)
 
