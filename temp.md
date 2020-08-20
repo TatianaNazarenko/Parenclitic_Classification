@@ -1,5 +1,8 @@
-
 # DEATH 7 (with LOOCV in INTERNAL model)
+
+During constructing an edge, each patient gets the _weight_ that is predicted for him by the model built on all other patients, **except him**.
+
+As a result, the entire network of each patient is _pure prediction_.
 
 ## Model:
  - Internal (for each pair of features f1 and f2): radial SVM (LOOCV) - weights of connection = probability to beloning class 1 
