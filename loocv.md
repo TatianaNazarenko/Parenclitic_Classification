@@ -1,6 +1,7 @@
 # DEATH 7, MRM (with super honnest LOOCV)
 
 * Now we consider not the accumulating values of the characteristics, but the whole vectors.
+
 _For example, for the strength characterisitc  (the strength of the vertices), we are considering not zeros, mean, maximum, minimum, sd, but for each patient we obtain the strength vector for all vertices._
 * Then, on the training set (all points without one), we construct the PCA on a matrix consisting of all weights
 We apply PCA to the test point and get a prediction (glm on two principal components).
