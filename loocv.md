@@ -1,5 +1,10 @@
 # DEATH 7, MRM (with super honnest LOOCV)
 
+* Now we consider not the accumulating values of the characteristics, but the whole vectors.
+_For example, for the strength characterisitc  (the strength of the vertices), we are considering not zeros, mean, maximum, minimum, sd, but for each patient we obtain the strength vector for all vertices._
+* Then, on the training set (all points without one), we construct the PCA on a matrix consisting of all weights
+We apply PCA to the test point and get a prediction (glm on two principal components).
+
 ![Image](/docs/Aucs_pca.png)
 
 ## suggestions
@@ -11,16 +16,18 @@
 * If Group = 1 and prediction < 0.2 or Group = 0 and prediction > 0.8 -- RED circle
 * If NOCH Stationar and (Group = 1 and prediction < 0.5 or Group = 0 and prediction > 0.5) -- RED display
 
+### Example for IncDNI_NoImputation, LOOCV, betweenness, PCA
+![Image](/docs/IncDNI_NoImputation_LOOCV_betweenness_full.png)
+
+### Example for IncDNI_NoImputation, LOOCV, strength, PCA
+![Image](/docs/IncDNI_NoImputation_LOOCV_strength_full.png)
+
 ### Example for IncDNI_Imputation, LOOCV, betweenness, PCA
 ![Image](/docs/IncDNI_Imputation_LOOCV_betweenness_full.png)
 
 ### Example for IncDNI_Imputation, LOOCV, strength, PCA
 ![Image](/docs/IncDNI_Imputation_LOOCV_strength_full.png)
 
-### Example for IncDNI_NoImputation, LOOCV, betweenness, PCA
-![Image](/docs/IncDNI_NoImputation_LOOCV_betweenness_full.png)
 
-### Example for IncDNI_NoImputation, LOOCV, strength, PCA
-![Image](/docs/IncDNI_NoImputation_LOOCV_strength_full.png)
 
 
