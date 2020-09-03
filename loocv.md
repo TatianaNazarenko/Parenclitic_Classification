@@ -1,6 +1,6 @@
 # DEATH 7, MRM (with super honnest LOOCV)
 
-* Now we consider not the accumulating values of the characteristics, but the whole vectors.
+* For each characteristic (_autority_score, betweenness, closenness, edge_betweenness, eigen_centrality, page.rank, strength_) now we consider not the accumulating values, but the whole vectors.
 
 _For example, for the strength characterisitc  (the strength of the vertices), we are considering not zeros, mean, maximum, minimum, sd, but for each patient we obtain the strength vector for all vertices._
 * Then, on the training set (all points without one), we construct the PCA on a matrix consisting of all weights
