@@ -2,6 +2,7 @@
 
 ![Image](/docs/Aucs_pca.png)
 
+Example for IncDNI_Imputation, LOOCV, strength, PCA
 ![Image](/docs/IncDNI_Imputation_LOOCV_strength_full.png)
 ![Image](/docs/IncDNI_Imputation_LOOCV_betweenness_full.png)
 ![Image](/docs/IncDNI_NoImputation_LOOCV_strength_full.png)
