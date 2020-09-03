@@ -3,7 +3,7 @@
 ![Image](/docs/Aucs_pca.png)
 
 ## suggestions
-* delete _"Noch stationar"_ outcome (we don't know _our outcome_ for them!); recheck metadata for 0036, 0012, 0136 (look very strange);
+* remove patients with _"Noch stationar"_ outcome (we don't know _our outcome_ for them!); recheck metadata for 0036, 0012, 0136 (look very strange);
 * consider on FULL set (not only on MRM). We highlited [here](https://tatiananazarenko.github.io/Parenclitic_Classification/DEATH7.html) the best 15 proteins, but only 3 of them in MRM subset.
 
 ## Annotation for figures:
