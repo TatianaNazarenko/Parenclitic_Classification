@@ -17,11 +17,25 @@ We apply to test point all pmodels (SVM, PCA, glm)
 * If Group = 1 and prediction < 0.2 or Group = 0 and prediction > 0.8 -- RED circle
 * If NOCH Stationar and (Group = 1 and prediction < 0.5 or Group = 0 and prediction > 0.5) -- RED display
 
+## NoImputation (betweenness, strength)
+
 ### Example for IncDNI_NoImputation, LOOCV, betweenness, PCA
 ![Image](/docs/IncDNI_NoImputation_LOOCV_betweenness_full.png)
 
 ### Example for IncDNI_NoImputation, LOOCV, strength, PCA
 ![Image](/docs/IncDNI_NoImputation_LOOCV_strength_full.png)
+
+### Example C19-CB-0176 experiment (betweenness, strength)
+#### betweenness
+![Image](/docs/EXAMPLE_IncDNI_NoImputation_LOOCV_betweenness_C19-CB-0176_full.png)
+#### strength
+![Image](/docs/EXAMPLE_IncDNI_NoImputation_LOOCV_strength_C19-CB-0176_full.png)
+
+### Example C19-CB-0220 experiment (betweenness, strength)
+#### betweenness
+![Image](/docs/EXAMPLE_IncDNI_NoImputation_LOOCV_betweenness_C19-CB-0220_full.png)
+#### strength
+![Image](/docs/EXAMPLE_IncDNI_NoImputation_LOOCV_strength_C19-CB-0220_full.png)
 
 ### Example for IncDNI_Imputation, LOOCV, betweenness, PCA
 ![Image](/docs/IncDNI_Imputation_LOOCV_betweenness_full.png)
