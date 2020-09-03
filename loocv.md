@@ -37,12 +37,23 @@ We apply to test point all pmodels (SVM, PCA, glm)
 #### strength
 ![Image](/docs/EXAMPLE_IncDNI_NoImputation_LOOCV_strength_C19-CB-0220_full.png)
 
+## Imputation (betweenness, strength)
 ### Example for IncDNI_Imputation, LOOCV, betweenness, PCA
 ![Image](/docs/IncDNI_Imputation_LOOCV_betweenness_full.png)
 
 ### Example for IncDNI_Imputation, LOOCV, strength, PCA
 ![Image](/docs/IncDNI_Imputation_LOOCV_strength_full.png)
 
+## Final NoImputation (betweenness, strength)
+### Example for Final_IncDNI_NoImputation, LOOCV, betweenness, PCA
+![Image](/docs/Final_IncDNI_NoImputation_LOOCV_betweenness_full.png)
 
+### Example for Final_IncDNI_NoImputation, LOOCV, strength, PCA
+![Image](/docs/Final_IncDNI_NoImputation_LOOCV_strength_full.png)
 
+## Final Imputation (betweenness, strength)
+### Example for Final_IncDNI_Imputation, LOOCV, betweenness, PCA
+![Image](/docs/Final_IncDNI_Imputation_LOOCV_betweenness_full.png)
 
+### Example for Final_IncDNI_Imputation, LOOCV, strength, PCA
+![Image](/docs/Final_IncDNI_Imputation_LOOCV_strength_full.png)
