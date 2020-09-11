@@ -17,7 +17,7 @@
 ## Final_IncDNI_NoImputation
 ![Image](/11092020/4.png)
 
-### Slight improvement with NNET
+### Slight improvement with NNET (Final_IncDNI_NoImputation)
  ```markdown
 characteristic_model <- function(df_train) {
 
