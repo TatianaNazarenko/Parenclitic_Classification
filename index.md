@@ -49,6 +49,7 @@ characteristic_model <- function(df_train) {
              "strength_mean", "strength_sd",
              "authority_score_mean", "authority_score_sd")
  ```
+ ![Image](/11092020/4_MRM.png)
   ### FULL SET
  ```markdown
  features: c("closeness_mean", "closeness_sd",
@@ -56,3 +57,4 @@ characteristic_model <- function(df_train) {
              "strength_mean", "strength_sd",
              "Eweights_mean", "Eweights_sd")
  ```
+  ![Image](/11092020/4_FULL.png)
