@@ -13,6 +13,7 @@
 ## Final_IncDNI_NoImputation
 ![Image](/11092020/4.png)
 
+### Slight improvement with nnet
  ```markdown
 characteristic_model <- function(df_train) {
 
@@ -41,7 +42,7 @@ characteristic_model <- function(df_train) {
   return(model)
 }
  ```
- ### MRM
+ #### MRM
  ```markdown
  features: c("closeness_mean", "closeness_sd",
              "betweenness_mean", "betweenness_sd",
@@ -50,7 +51,7 @@ characteristic_model <- function(df_train) {
              "authority_score_mean", "authority_score_sd")
  ```
  ![Image](/11092020/4_MRM.png)
-  ### FULL SET
+  #### FULL SET
  ```markdown
  features: c("closeness_mean", "closeness_sd",
              "page.rank_mean","page.rank_sd",
