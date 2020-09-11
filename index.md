@@ -2,8 +2,8 @@
 * [Please find old results (24.08.2020) here](old24082020.md)
 * additional old pages
 ** temp page](temp.md)
-** loocv page](loocv.md)
-** loocv 3.09.2020](loocv.md)
+** loocv 2.09.2020](loocv.md)
+** loocv 3.09.2020](loocv3092020.md)
 
 # Results 11.09.2020
 
