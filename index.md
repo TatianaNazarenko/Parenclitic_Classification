@@ -14,7 +14,7 @@
 ![Image](/11092020/4.png)
 
  ```markdown
-chars_model <- function(df_train) {
+characteristic_model <- function(df_train) {
 
   df_train$score <- as.factor(df_train$score)
   levels(df_train$score) <- c("first_class","second_class")
@@ -40,4 +40,19 @@ chars_model <- function(df_train) {
                     ) 
   return(model)
 }
+ ```
+ ### MRM
+ ```markdown
+ features: c("closeness_mean", "closeness_sd",
+             "betweenness_mean", "betweenness_sd",
+             "page.rank_mean","page.rank_sd",
+             "strength_mean", "strength_sd",
+             "authority_score_mean", "authority_score_sd")
+ ```
+  ### FULL SET
+ ```markdown
+ features: c("closeness_mean", "closeness_sd",
+             "page.rank_mean","page.rank_sd",
+             "strength_mean", "strength_sd",
+             "Eweights_mean", "Eweights_sd")
  ```
