@@ -13,3 +13,31 @@
 ## Final_IncDNI_NoImputation
 ![Image](/11092020/4.png)
 
+ ```markdown
+chars_model <- function(df_train) {
+
+  df_train$score <- as.factor(df_train$score)
+  levels(df_train$score) <- c("first_class","second_class")
+  set.seed(123)
+  train_control <- trainControl(method = "LOOCV", 
+                                number=1,
+                                verboseIter = FALSE,
+                                classProbs = TRUE, 
+                                summaryFunction = twoClassSummary,
+                                allowParallel = T,
+                                sampling = "rose"
+                                )
+  
+  nnetGrid <-  expand.grid(size = seq(from = 1, to = 10, by = 1),
+                           decay = seq(from = 0.1, to = 0.5, by = 0.1))
+  
+  model <- train(score ~ (.),
+                    data = df_train,
+                    method = "nnet",
+                    tuneGrid = nnetGrid,
+                    trControl = train_control,
+                    metric = "ROC"
+                    ) 
+  return(model)
+}
+ ```
