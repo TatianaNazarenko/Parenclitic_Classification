@@ -26,6 +26,7 @@
 * [Leave-one-out](/16092020/Final_ExcDNI_Imputation_MRM_LOOCV.png) Best auc: 0.926
 
 ### FULL
-* (Leave-4-out)
+
+* [Leave-4-out](/16092020/Final_ExcDNI_Imputation_full_FULL_L4OCV.png) Best auc: 0.88
 * (Leave-one-out)
 
