@@ -12,7 +12,9 @@
 ## Final_IncDNI_Imputation 
 15 Cases, 33 Controls. [Leave-3-out scheme](/16092020/Final_IncDNI_Imputation_splits.png): 1 Case + 2 Controls (3 patients participate twice)
 ### MRM
-* [Leave-3-out](/16092020/Final_IncDNI_Imputation_MRM_L3OCV.png) Best auc: 0.782
+* [Leave-3-out](/16092020/Final_IncDNI_Imputation_MRM_L3OCV.png) Best auc: 0.782\\
+[Vertices strengths heatmaps (for each round)](/16092020/Final_IncDNI_Imputation_L3OCV_strength_heatmap.png)
+
 * [Leave-one-out](/16092020/Final_IncDNI_Imputation_MRM_LOOCV.png) Best auc: 0.867
 
 ### FULL
