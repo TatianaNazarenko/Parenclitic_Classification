@@ -16,7 +16,7 @@
 * [Leave-one-out](/16092020/Final_IncDNI_Imputation_MRM_LOOCV.png) Best auc: 0.867
 
 ### FULL
-* (Leave-3-out)
+* [Leave-3-out](/16092020/Final_IncDNI_Imputation_full_FULL_L3OCV.png) Best auc: 0.772
 * (Leave-one-out)
 
 ## Final_ExcDNI_Imputation 
