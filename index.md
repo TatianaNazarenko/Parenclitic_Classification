@@ -14,7 +14,7 @@
 ### MRM
 * [Leave-3-out](/16092020/Final_IncDNI_Imputation_MRM_L3OCV.png) Best auc: 0.782. [Vertices strengths heatmaps (for each round)](/16092020/Final_IncDNI_Imputation_L3OCV_strength_heatmap.png)
 
-[LOG TRANSFORM Leave-3-out](/16092020/Final_IncDNI_Imputation_log_MRM_L3OCV.RData.png) Best auc: 0.787.
+[LOG TRANSFORM Leave-3-out](/16092020/Final_IncDNI_Imputation_log_MRM__L3OCV.png) Best auc: 0.787.
 
 * [Leave-one-out](/16092020/Final_IncDNI_Imputation_MRM_LOOCV.png) Best auc: 0.867. [Vertices strengths heatmaps (for each round)](/16092020/Final_IncDNI_Imputation_LOOCV_strength_heatmap.png)
 
