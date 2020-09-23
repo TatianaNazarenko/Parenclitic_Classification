@@ -26,6 +26,9 @@
 11 Cases, 33 Controls. [Leave-4-out scheme](/16092020/Final_ExcDNI_Imputation_splits.png): 1 Case + 3 Controls 
 ### MRM
 * [Leave-4-out](/16092020/Final_ExcDNI_Imputation_MRM_L4OCV.png) Best auc: 0.972. [Vertices strengths heatmaps (for each round)](/16092020/Final_ExcDNI_Imputation_L4OCV_strength_heatmap.png)
+
+[LOG TRANSFORM Leave-4-out](/16092020/Final_ExclDNI_Imputation_log_MRM__L4OCV.png) Best auc: 0.884.
+
 * [Leave-one-out](/16092020/Final_ExcDNI_Imputation_MRM_LOOCV.png) Best auc: 0.926. [Vertices strengths heatmaps (for each round)](/16092020/Final_ExcDNI_Imputation_LOOCV_strength_heatmap.png)
 
 ### FULL
