@@ -13,7 +13,7 @@
 </pre>
 </details>
 
-![Image](ExclDNI_First_Alt_L4OCV_results_aucs.png)
+![Image](ExclDNI_First_Alt_MAIN.png)
 
 ## OVERLAPPING PROTEINS (ZeBanC and Innsbruck)
 
@@ -27,5 +27,5 @@
 </pre>
 </details>
 
-![Image](ExclDNI_First_Alt_INTPROT_L4OCV_results_aucs.png)
-![Image](ExclDNI_First_Alt_TRAIN_TEST_results_aucs_TRAIN_TEST.png)
+![Image](ExclDNI_First_Alt_INTERSECT.png)
+![Image](ExclDNI_First_Alt.png)
