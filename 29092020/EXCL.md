@@ -1,4 +1,3 @@
-
 # EXCL
 ## FIRST
 ## ORIGINAL SET OF PROTEINS (Vadim's list)
