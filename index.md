@@ -2,7 +2,7 @@
 * [Please find old results (24.08.2020) here](old24082020.md)
 * [Please find old results (11.09.2020) here](old11092020.md)
 * [Please find old results (16.09.2020) here](old16092020.md)
-
+* [Please find old results (28.09.2020) here](old28092020.md)
  additional old pages
 * [temp page](temp.md)
 * [loocv 2.09.2020](loocv.md)
@@ -10,16 +10,16 @@
 
 # Data from 28.09.2020
 ## proteins list from Vadim
+### with 218
 
-[Excl](/29092020/EXCL.md)
+[Excl, First](/30092020/EXCL.md)
 
-[Incl](/29092020/INCL.md)
+[Incl, First](/30092020/INCL.md)
 
-## MRM
+### without 218
 
-**Excl**
+[Excl, First](/30092020/EXCL.md)
 
-**Incl**
-
+[Incl, First](/30092020/INCL.md)
 
 
