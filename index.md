@@ -12,14 +12,14 @@
 ## proteins list from Vadim
 ### with 218
 
-[Excl-First](/30092020/ExclDNI_First_Alt_with_218_mainfig.png)
+[Excl-First-with218](/30092020/ExclDNI_First_Alt_with_218_mainfig.png)
 
-[Incl-First](/30092020/InclDNI_First_Alt_with_218_mainfig.png)
+[Incl-First-with218](/30092020/InclDNI_First_Alt_with_218_mainfig.png)
 
 ### without 218
 
-[Excl-First](/30092020/EXCL.md)
+[Excl-First-without218](/30092020/ExclDNI_First_Alt_without_218_mainfig.png)
 
-[Incl-First](/30092020/INCL.md)
+[Incl-Firstt-without218](/30092020/InclDNI_First_Alt_without_218_mainfig.png)
 
 
