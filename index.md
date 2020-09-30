@@ -9,10 +9,17 @@
 * [loocv 3.09.2020](loocv3092020.md)
 
 # Data from 28.09.2020
+## proteins list from Vadim
 
 [Excl](/29092020/EXCL.md)
 
 [Incl](/29092020/INCL.md)
+
+## MRM
+
+**Excl**
+
+**Incl**
 
 
 
