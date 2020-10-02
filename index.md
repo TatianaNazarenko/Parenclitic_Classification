@@ -9,7 +9,7 @@
 * [loocv 3.09.2020](loocv3092020.md)
 
 # Data from 28.09.2020
-## proteins list from Vadim
+## proteins list from Vadim (oldest)
 ### with 218
 
 [Excl-First-with218](/30092020/Excl_First_with218.md) (added predictions and networks, 02.10.2020)
@@ -21,5 +21,12 @@
 [Excl-First-without218](/30092020/ExclDNI_First_Alt_without_218_mainfig.png)
 
 [Incl-Firstt-without218](/30092020/InclDNI_First_Alt_without_218_mainfig.png)
+
+## proteins list from Vadim (newest 02.10.2020)
+### with 218
+
+[Excl-First-with218 NEWLIST](/30092020/Excl_First_with218_NEWLIST.md) (with predictions and networks)
+
+[Incl-First-with218 NEWLIST](/30092020/Incl_First_with218_NEWLIST.md) (with predictions and networks)
 
 
