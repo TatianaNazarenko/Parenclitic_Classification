@@ -12,9 +12,9 @@
 ## proteins list from Vadim
 ### with 218
 
-[Excl-First-with218](/30092020/Excl_First_with218.md)
+[Excl-First-with218](/30092020/Excl_First_with218.md) (added predictions and networks, 02.10.2020)
 
-[Incl-First-with218](/30092020/InclDNI_First_Alt_with_218_mainfig.png)
+[Incl-First-with218](/30092020/Incl_First_with218.md) (added predictions and networks, 02.10.2020)
 
 ### without 218
 
