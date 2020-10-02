@@ -1,5 +1,5 @@
 # Main analysis
-[Incl-First-with218](/30092020/ExclDNI_First_Alt_with_218_mainfig.png)
+![Image](/30092020/ExclDNI_First_Alt_with_218_mainfig.png)
 
 # Predcitions for "all network features" and "eweights only"
 We are testing 5 models
