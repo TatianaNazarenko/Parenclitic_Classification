@@ -17,9 +17,9 @@
 
 ### with 218
 
-[Excl-First-with218](/30092020/Excl_First_with218.md) (added predictions and networks, 02.10.2020)
+[Excl-First-with218](/30092020/Excl_First_with218_OLDLIST.md) (added predictions and networks, 02.10.2020)
 
-[Incl-First-with218](/30092020/Incl_First_with218.md) (added predictions and networks, 02.10.2020)
+[Incl-First-with218](/30092020/Incl_First_with218_OLDLIST.md) (added predictions and networks, 02.10.2020)
 
 
 ## proteins list from Vadim (newest 02.10.2020)
