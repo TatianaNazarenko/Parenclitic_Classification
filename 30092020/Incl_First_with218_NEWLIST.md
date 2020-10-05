@@ -22,5 +22,8 @@ tunning parameters with cv on Train: sigma= 2^c(-25, -20, -15,-10, -5, 0), C= 2^
 ## "eweights only"
 ![Image](InclDNI_First_NEWEST_Eweights_only.png)
 
+## "sds and mean only" (as on of the best on l?ocv)
+![Image](InclDNI_First_NEWEST_sds_and_mean_only.png)
+
 # NETWORKS
 ![Image](InclDNI_First_NEWEST_patients_networks.png)
