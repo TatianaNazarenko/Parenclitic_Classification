@@ -38,10 +38,9 @@
 
 ## proteins list from Vadim (MRM)
 
-**Proteins**: "ACTA2.ACTB.ACTG1.ACTG2", "AHSG", "APOB", "B2M", "C1QA", "C1QB", "C1QC", "CD14",                   "CD44", "CRP", "CST3", "GPLD1", "KLKB1", "LYZ", "ORM1", "ORM1.ORM2", "PGLYRP2", "PIGR", "PLG", 
-"SERPINA3", "SERPIND1", "SERPING1", "TF", "TFRC", "TTR", "VWF"
+**Proteins**: 
 
-**Clinical** (I had only 7 at the night): "N.LDH", "N.PROCALCITONIN", "N.INTERLEUKIN.6","N.TROPONIN.T", "N.NT.PRO.BNP", "N.UNREIFE.GRANULOZYTEN.ABSOLUT", "N.NEUTROPHILE.ABSOLUT"         
+**Clinical**:       
 
 ### with 218
 
