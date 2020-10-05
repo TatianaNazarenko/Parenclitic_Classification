@@ -23,4 +23,4 @@ tunning parameters with cv on Train: sigma= 2^c(-25, -20, -15,-10, -5, 0), C= 2^
 ![Image](InclDNI_First_Eweights_only.png)
 
 # NETWORKS
-![Image](InclDNI_First_Alt_patients_networks.png)
+![Image](InclDNI_First_OLDEST_patients_networks.png)
