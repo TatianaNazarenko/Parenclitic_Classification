@@ -1,7 +1,7 @@
 # EXCL/FIRST/WITH218/MRM
 
 # Main analysis
-![Image](ExclDNI_First_MRM_with_218_mainfig_MRM.png)
+![Image](ExclDNI_First_MRM_title_fig.png)
 
 # Predcitions for "all network features" and "eweights only"
 We are testing 5 models
@@ -17,10 +17,10 @@ tunning parameters with cv on Train: alpha = 0.5, lambda = seq(0.0001, 1, length
 tunning parameters with cv on Train: sigma= 2^c(-25, -20, -15,-10, -5, 0), C= 2^c(0:5)
 
 ## "all network features"
-![Image](ExclDNI_First_all_features_MRM.png)
+![Image](ExclDNI_First_MRM_all_features.png)
 
 ## "eweights only"
-![Image](ExclDNI_First_Eweights_only_MRM.png)
+![Image](ExclDNI_First_MRM_Eweights_only.png)
 
 # NETWORKS
 ![Image](ExclDNI_First_MRM_patients_networks.png)
