@@ -15,14 +15,13 @@
 
 **Clinical**: "I.Age", "N.BMI", "I.Charlson", "N.ERYTHROZYTEN", "N.HAMATOKRIT..L.L.", "N.HAMOGLOBIN", "N.RDW.CV", "N.GESCHATZTE.GFR.EGFR.CKD.EPI.", "N.PROCALCITONIN", "N.LDH", "N.CREATINKINASE..CK.", "N.CALCIUM","N.UNREIFE.GRANULOZYTEN.ABSOLUT", "N.NEUTROPHILE.ABSOLUT", "N.NT.PRO.BNP", "N.INTERLEUKIN.6", "N.TROPONIN.T" 
 
-### with 218
-#### EXCL (First, with 218, OLDLIST)
+### EXCL (First, with 218, OLDLIST)
 
 [WEIGHTED NETWORKS](/30092020/Excl_First_with218_OLDLIST.md)
 
 [BINARY NETWORKS](/30092020/Excl_First_with218_OLDLIST_binar.md)
 
-#### INCL (First, with 218, OLDLIST)
+### INCL (First, with 218, OLDLIST)
 
 [WEIGHTED NETWORKS](/30092020/Incl_First_with218_OLDLIST.md)
 
@@ -35,14 +34,13 @@
 
 **Clinical** (I had only 7 at the night): "N.LDH", "N.PROCALCITONIN", "N.INTERLEUKIN.6","N.TROPONIN.T", "N.NT.PRO.BNP", "N.UNREIFE.GRANULOZYTEN.ABSOLUT", "N.NEUTROPHILE.ABSOLUT"         
 
-### with 218
-#### EXCL (First, with 218, NEWLIST)
+### EXCL (First, with 218, NEWLIST)
 
 [WEIGHTED NETWORKS](/30092020/Excl_First_with218_NEWLIST.md)
 
 [BINARY NETWORKS](/30092020/Excl_First_with218_NEWLIST_binar.md)
 
-#### INCL (First, with 218, NEWLIST)
+### INCL (First, with 218, NEWLIST)
 
 [WEIGHTED NETWORKS](/30092020/Incl_First_with218_NEWLIST.md)
 
@@ -55,13 +53,13 @@
 
 **Clinical**:       
 
-#### EXCL (First, with 218, MRM)
+### EXCL (First, with 218, MRM)
 
 [WEIGHTED NETWORKS](/30092020/Excl_First_with218_MRM.md)
 
 [BINARY NETWORKS](/30092020/Excl_First_with218_MRM_binar.md)
 
-#### INCL (First, with 218, MRM)
+### INCL (First, with 218, MRM)
 
 [WEIGHTED NETWORKS](/30092020/Incl_First_with218_MRM.md)
 
