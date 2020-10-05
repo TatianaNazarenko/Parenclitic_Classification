@@ -9,7 +9,7 @@
 * [loocv 3.09.2020](loocv3092020.md)
 
 # Data from 28.09.2020
-## proteins list from Vadim (oldest)
+## proteins list from Vadim (OLDEST)
 
 **Proteins**: "AHSG", "APOB", "B2M", "C1QA", "C1QB", "C1QC", "CRP", "CST3", "KLKB1", "LYZ", "ORM1", "PLG", "SERPING1", "TF", "TFRC", "TTR", "VWF", "CD14", "PGLYRP2", "SERPINA3"
 
@@ -17,12 +17,12 @@
 
 ### with 218
 
-[Excl-First-with218](/30092020/Excl_First_with218_OLDLIST.md) (added predictions and networks, 02.10.2020)
+[Excl-First-with218 OLDEST](/30092020/Excl_First_with218_OLDLIST.md) (added predictions and networks, 02.10.2020)
 
-[Incl-First-with218](/30092020/Incl_First_with218_OLDLIST.md) (added predictions and networks, 02.10.2020)
+[Incl-First-with218 OLDEST](/30092020/Incl_First_with218_OLDLIST.md) (added predictions and networks, 02.10.2020)
 
 
-## proteins list from Vadim (newest 02.10.2020)
+## proteins list from Vadim (NEWEST 02.10.2020)
 
 **Proteins**: "ACTA2.ACTB.ACTG1.ACTG2", "AHSG", "APOB", "B2M", "C1QA", "C1QB", "C1QC", "CD14",                   "CD44", "CRP", "CST3", "GPLD1", "KLKB1", "LYZ", "ORM1", "ORM1.ORM2", "PGLYRP2", "PIGR", "PLG", 
 "SERPINA3", "SERPIND1", "SERPING1", "TF", "TFRC", "TTR", "VWF"
@@ -35,4 +35,17 @@
 
 [Incl-First-with218 NEWLIST](/30092020/Incl_First_with218_NEWLIST.md) (with predictions and networks)
 
+
+## proteins list from Vadim (MRM)
+
+**Proteins**: "ACTA2.ACTB.ACTG1.ACTG2", "AHSG", "APOB", "B2M", "C1QA", "C1QB", "C1QC", "CD14",                   "CD44", "CRP", "CST3", "GPLD1", "KLKB1", "LYZ", "ORM1", "ORM1.ORM2", "PGLYRP2", "PIGR", "PLG", 
+"SERPINA3", "SERPIND1", "SERPING1", "TF", "TFRC", "TTR", "VWF"
+
+**Clinical** (I had only 7 at the night): "N.LDH", "N.PROCALCITONIN", "N.INTERLEUKIN.6","N.TROPONIN.T", "N.NT.PRO.BNP", "N.UNREIFE.GRANULOZYTEN.ABSOLUT", "N.NEUTROPHILE.ABSOLUT"         
+
+### with 218
+
+[Excl-First-with218 MRM](/30092020/Excl_First_with218_MRM.md) (with predictions and networks)
+
+[Incl-First-with218 MRM](/30092020/Incl_First_with218_MMR.md) (with predictions and networks)
 
