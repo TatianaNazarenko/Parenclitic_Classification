@@ -17,10 +17,10 @@ tunning parameters with cv on Train: alpha = 0.5, lambda = seq(0.0001, 1, length
 tunning parameters with cv on Train: sigma= 2^c(-25, -20, -15,-10, -5, 0), C= 2^c(0:5)
 
 ## "all network features"
-![Image](ExclDNI_First_all_features.png)
+![Image](ExclDNI_First_OLDEST_all_features.png)
 
 ## "eweights only"
-![Image](ExclDNI_First_Eweights_only.png)
+![Image](ExclDNI_First_OLDEST_Eweights_only.png)
 
 # NETWORKS
 ![Image](ExclDNI_First_OLDEST_patients_networks.png)
