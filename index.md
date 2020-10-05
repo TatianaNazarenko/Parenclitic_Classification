@@ -21,11 +21,6 @@
 
 [Incl-First-with218](/30092020/Incl_First_with218.md) (added predictions and networks, 02.10.2020)
 
-### without 218
-
-[Excl-First-without218](/30092020/ExclDNI_First_Alt_without_218_mainfig.png)
-
-[Incl-Firstt-without218](/30092020/InclDNI_First_Alt_without_218_mainfig.png)
 
 ## proteins list from Vadim (newest 02.10.2020)
 
