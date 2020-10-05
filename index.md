@@ -16,11 +16,17 @@
 **Clinical**: "I.Age", "N.BMI", "I.Charlson", "N.ERYTHROZYTEN", "N.HAMATOKRIT..L.L.", "N.HAMOGLOBIN", "N.RDW.CV", "N.GESCHATZTE.GFR.EGFR.CKD.EPI.", "N.PROCALCITONIN", "N.LDH", "N.CREATINKINASE..CK.", "N.CALCIUM","N.UNREIFE.GRANULOZYTEN.ABSOLUT", "N.NEUTROPHILE.ABSOLUT", "N.NT.PRO.BNP", "N.INTERLEUKIN.6", "N.TROPONIN.T" 
 
 ### with 218
+#### EXCL (First, with 218, OLDLIST)
 
-[Excl-First-with218 OLDEST](/30092020/Excl_First_with218_OLDLIST.md) (added predictions and networks, 02.10.2020)
+[WEIGHTED NETWORKS](/30092020/Excl_First_with218_OLDLIST.md)
 
-[Incl-First-with218 OLDEST](/30092020/Incl_First_with218_OLDLIST.md) (added predictions and networks, 02.10.2020)
+[BINARY NETWORKS](/30092020/Excl_First_with218_OLDLIST_binar.md)
 
+#### INCL (First, with 218, OLDLIST)
+
+[WEIGHTED NETWORKS](/30092020/Incl_First_with218_OLDLIST.md)
+
+[BINARY NETWORKS](/30092020/Incl_First_with218_OLDLIST.md) 
 
 ## proteins list from Vadim (NEWEST 02.10.2020)
 
@@ -30,21 +36,34 @@
 **Clinical** (I had only 7 at the night): "N.LDH", "N.PROCALCITONIN", "N.INTERLEUKIN.6","N.TROPONIN.T", "N.NT.PRO.BNP", "N.UNREIFE.GRANULOZYTEN.ABSOLUT", "N.NEUTROPHILE.ABSOLUT"         
 
 ### with 218
+#### EXCL (First, with 218, NEWLIST)
 
-[Excl-First-with218 NEWLIST](/30092020/Excl_First_with218_NEWLIST.md) (with predictions and networks)
+[WEIGHTED NETWORKS](/30092020/Excl_First_with218_NEWLIST.md)
 
-[Incl-First-with218 NEWLIST](/30092020/Incl_First_with218_NEWLIST.md) (with predictions and networks)
+[BINARY NETWORKS](/30092020/Excl_First_with218_NEWLIST_binar.md)
+
+#### INCL (First, with 218, NEWLIST)
+
+[WEIGHTED NETWORKS](/30092020/Incl_First_with218_NEWLIST.md)
+
+[BINARY NETWORKS](/30092020/Incl_First_with218_NEWLIST.md) 
 
 
-## proteins list from Vadim (MRM)
+## proteins MRM
 
 **Proteins**: 
 
 **Clinical**:       
 
-### with 218
+#### EXCL (First, with 218, MRM)
 
-[Excl-First-with218 MRM](/30092020/Excl_First_with218_MRM.md) (with predictions and networks)
+[WEIGHTED NETWORKS](/30092020/Excl_First_with218_MRM.md)
 
-[Incl-First-with218 MRM](/30092020/Incl_First_with218_MMR.md) (with predictions and networks)
+[BINARY NETWORKS](/30092020/Excl_First_with218_MRM_binar.md)
+
+#### INCL (First, with 218, MRM)
+
+[WEIGHTED NETWORKS](/30092020/Incl_First_with218_MRM.md)
+
+[BINARY NETWORKS](/30092020/Incl_First_with218_MRM.md) 
 
