@@ -22,5 +22,9 @@ tunning parameters with cv on Train: sigma= 2^c(-25, -20, -15,-10, -5, 0), C= 2^
 ## "eweights only"
 ![Image](ExclDNI_First_MRM_Eweights_only.png)
 
+## "sds only" (as the best for svm on l?ocv)
+![Image](ExclDNI_First_MRM_sds_only.png)
+
+
 # NETWORKS
 ![Image](ExclDNI_First_MRM_patients_networks.png)
