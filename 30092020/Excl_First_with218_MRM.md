@@ -1,4 +1,4 @@
-# EXCL/FIRST/WITH218/OLDLIST
+# EXCL/FIRST/WITH218/MRM
 
 # Main analysis
 ![Image](ExclDNI_First_MRM_with_218_mainfig_MRM.png)
