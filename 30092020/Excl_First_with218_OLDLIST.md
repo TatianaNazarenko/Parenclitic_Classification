@@ -1,7 +1,7 @@
 # EXCL/FIRST/WITH218/OLDLIST
 
 # Main analysis
-![Image](ExclDNI_First_Alt_with_218_mainfig.png)
+![Image](ExclDNI_First_OLDEST_title_fig.png)
 
 # Predcitions for "all network features" and "eweights only"
 We are testing 5 models
