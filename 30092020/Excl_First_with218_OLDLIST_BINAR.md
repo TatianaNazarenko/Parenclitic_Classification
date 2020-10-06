@@ -1,5 +1,7 @@
 # EXCL/FIRST/WITH218/OLDLIST - BINAR
 
+A binary graph is created according to the rule: if the edge weight > 0.5, then there is an edge, otherwise it is not.
+
 ![Image](ExclDNI_First_OLDEST_patients_networks_BINAR.png)
 
 ![Image](ExclDNI_First_OLDEST_nodes_and_edges_binar.png)
