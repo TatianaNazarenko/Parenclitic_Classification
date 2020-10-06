@@ -22,8 +22,8 @@ tunning parameters with cv on Train: sigma= 2^c(-25, -20, -15,-10, -5, 0), C= 2^
 ## "eweights only"
 ![Image](InclDNI_First_OLDEST_Eweights_only.png)
 
-## "closeness only" (as the best for glmnet on l?ocv)
-![Image](InclDNI_First_OLDEST_closeness_only.png)
+## "edge betweenness only" (as the best on l?ocv)
+![Image](InclDNI_First_OLDEST_edge_betweenness_only.png)
 
 # NETWORKS
 ![Image](InclDNI_First_OLDEST_patients_networks.png)
