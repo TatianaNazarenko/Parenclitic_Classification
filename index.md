@@ -8,7 +8,7 @@
 * [loocv 2.09.2020](loocv.md)
 * [loocv 3.09.2020](loocv3092020.md)
 
-# Data from 28.09.2020
+# Data from 02.010.2020
 ## proteins list from Vadim (OLDEST)
 
 **Proteins**: "AHSG", "APOB", "B2M", "C1QA", "C1QB", "C1QC", "CRP", "CST3", "KLKB1", "LYZ", "ORM1", "PLG", "SERPING1", "TF", "TFRC", "TTR", "VWF", "CD14", "PGLYRP2", "SERPINA3"
