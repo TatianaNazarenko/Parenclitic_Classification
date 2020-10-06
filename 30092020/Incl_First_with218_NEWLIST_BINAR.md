@@ -12,4 +12,6 @@ The **IMPORTANT CASES NETWORK** is created according to the rule: if edge weight
 
 ![Image](InclDNI_First_NEWEST_SUM_CASES.png)
 
+Intersection BINARY NETWORKs of patients with IMPORTANT CASES NETWORK.
+
 ![Image](InclDNI_First_NEWEST_patients_networks_BINAR_FILTERED.png)
