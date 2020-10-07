@@ -9,6 +9,12 @@
 * [loocv 3.09.2020](loocv3092020.md)
 
 # Data from 02.010.2020
+
+## Last update (after my night email) !!!
+best result for Incl, MPM has been improved! Thanks, Vadim!
+![Image](/30092020/last.png)
+
+
 ## proteins list from Vadim (OLDEST)
 
 **Proteins**: "AHSG", "APOB", "B2M", "C1QA", "C1QB", "C1QC", "CRP", "CST3", "KLKB1", "LYZ", "ORM1", "PLG", "SERPING1", "TF", "TFRC", "TTR", "VWF", "CD14", "PGLYRP2", "SERPINA3"
