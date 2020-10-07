@@ -11,7 +11,7 @@
 # Data from 02.010.2020
 
 ## Last update (after my night email) !!!
-best result for Incl, MPM has been improved! Thanks, Vadim!
+Best result for **Incl, MPM** has been improved! Thanks, Vadim!
 ![Image](/30092020/last.png)
 
 
