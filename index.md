@@ -71,3 +71,16 @@ Best result for **Incl, MPM** has been improved! Thanks, Vadim!
 
 [BINARY NETWORKS](/30092020/Incl_First_with218_MRM_BINAR.md) 
 
+## ALL proteins
+
+**Proteins**: 
+
+**Clinical**:       
+
+
+### INCL (First, with 218, MRM)
+
+[WEIGHTED NETWORKS](/30092020/Incl_First_ALL.md)
+
+[BINARY NETWORKS](/30092020/Incl_First_ALL_BINAR.md) 
+
